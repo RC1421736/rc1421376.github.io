@@ -1,11 +1,10 @@
 ## Table of Contents
-
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
-  - [Headings](#headings)
-
-  - [Text Formatting](#text-formatting)
  
+  - [Blocks](#blocks)
+  - [Concepts](#concepts)
+  - [Vocabulary](#vocabulary)
+  - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+    - [Headings](#headings)
 
 
 
@@ -19,6 +18,21 @@
 
 
 
+
+
+## Blocks
+Hat Block - it is a rectangular block with a curve on the top similar to a hat's curve) and it begins the list of commands.
+Stack/Command block - This block is rectangular, and it gives commands in a single use without any extra needs or uses and can connect to other blocks on top or below it.
+C-block - This block is the shape of a C (hense the name) and can store other blocks inside of it to repeat or give a wait time for something to be used in the commands.
+Reporter/Oval Block - it is shaped like an ovel (why it is called an "Oval Block". A Reporter/Oval block reports changing numbers or text values to other blocks in your program.
+Boolean/hexagonal Block - 
+Repeat block - 
+Wait until Block - 
+If then Block -
+Forever Block - 
+## Concepts
+
+## Vocabulary
 
 
 
