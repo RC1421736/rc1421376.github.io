@@ -31,9 +31,29 @@ Wait until Block -
 If then Block -
 Forever Block - 
 ## Concepts
-
+Sequence - The exact order of your blocks matters because the robot executes commands step-by-step from top to bottom.
+Parameters - Changing the numbers or options inside a block directly alters how far, fast, or where the robot moves.
+Loops/Iteration - Repeating instructions lets your robot efficiently perform the same actions multiple times without rewriting the same blocks.
+Sensors - These built-in tools allow the robot to detect real-time data from its playground, like distances, colors, or bumper presses.
+Booleans & Conditions - These are checks that evaluate strictly to TRUE or FALSE to dictate exactly when a robot should perform an action.
+Sense, Think, Act - This continuous loop defines how a robot gathers environmental data, processes it through code, and executes a physical response.
+Comparisons - Using operators like greater than or less than, lets the robot evaluate two data values to decide if a condition is true.
+Coordinates - The VR Playground uses a grid system of X and Y values to identify the exact location of the robot at any moment.
+Conditionals - These are "If-Then" decisions that allow the robot to change its behavior based on the current situation.
+Patterns - Spotting repetition in a task helps you write cleaner, smarter algorithms by condensing multiple steps into simple loops. 
 ## Vocabulary
-
+VR Robot + Playground - The VR Robot navigates through the virtual Playground to complete various coding challenges.
+Programming Language + Project - We use the VEXcode Programming Language to write and run each robot Project.
+Behavior + Command - A Command is an individual block of code that instructs the robot to perform a specific Behavior.Drivetrain: The Drivetrain category contains blocks that control the robot's wheels so it can drive and turn.
+Loop + Iteration - A Loop repeats a set of instructions automatically, with each individual repeat called an Iteration.
+Sensor + Bumper Sensor: A Sensor gathers data from the environment, such as a physical Bumper Sensor detecting a wall crash.
+Boolean + Condition + TRUE/FALSE - A Boolean expression evaluates a specific Condition to see if it is currently TRUE or FALSE
+.Distance Sensor + Threshold - The Distance Sensor measures space and triggers a reaction when the reading drops below a specific numeric Threshold.
+Coordinate Plane + X/Y Coordinates - The Coordinate Plane map uses an X-axis and a Y-axis to track the robot's exact X-coordinate and Y-coordinate
+.Location Sensor - The Location Sensor reads the playground's grid to determine the robot's current position.
+Comment  A Comment is a helpful note left in the code to explain how a program works without affecting the robot.
+Eye Sensor - The Eye Sensor detects objects and reads colors located directly in front of or beneath the robot.
+Conditional Statement - A Conditional Statement allows the program to make an "If-Then" decision to change the robot's path.
 
 
 
