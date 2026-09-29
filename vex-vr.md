@@ -4,7 +4,7 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Find Your Age]
 
 ### Goal
 
@@ -21,7 +21,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Basketball Drills]
 
 ### Goal
 
@@ -38,7 +38,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Storm the castle]
 
 ### Goal
 
@@ -55,7 +55,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Draw a House]
 
 ### Goal
 
@@ -72,7 +72,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Wall Maze with Bumpers]
 
 ### Goal
 
@@ -89,7 +89,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Drive to Three Numbers Challenge]
 
 ### Goal
 
@@ -106,7 +106,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Wall Maze with Distance Sensors]
 
 ### Goal
 
@@ -123,7 +123,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Disk Color Maze]
 
 ### Goal
 
