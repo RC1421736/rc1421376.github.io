@@ -25,7 +25,7 @@ I learned how to make the robot turn and go, and leave colored trail markings be
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+To learn how to use the repeating blocks and even variabels to make it change sizes of how long the line will appear.
 
 ### My Solution
 
@@ -33,8 +33,7 @@ Describe the goal of this lesson or challenge. What was your robot supposed to a
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to use reapeating blocks and how to make and use my custom variabe blocks
 
 ----------------------------------------------------------------------
 
@@ -42,16 +41,15 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+To clear all blocks off the island and make sure the robot is the only thing left on the island.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="909" height="469" alt="image" src="https://github.com/user-attachments/assets/d842c0c6-4c24-4cd1-9ddb-67176518176f" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to use color sensors and how to make an efficent reapting system for the robot.
 
 ----------------------------------------------------------------------
 
@@ -59,16 +57,14 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
-
+We are to learn the drawing function more basicly to understand the sizes, up/down mechanic, and to change colors.
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="914" height="523" alt="image" src="https://github.com/user-attachments/assets/32f57c0e-a5b8-4c02-bb42-77643c310690" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learnd how to change sizes and when to lift and lower the color
 
 ----------------------------------------------------------------------
 
@@ -76,16 +72,14 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
-
+To learn how to use bumper sensors to navigate areas
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="915" height="418" alt="image" src="https://github.com/user-attachments/assets/24207a9d-975b-4942-a617-dcfcfa0144a2" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to use the sensors t get through the maze and avoid the walls
 
 ----------------------------------------------------------------------
 
@@ -93,16 +87,14 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
-
+To use the X/Y value to put the robot in the correct spot.
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="917" height="450" alt="image" src="https://github.com/user-attachments/assets/b2d73e20-33c7-4b35-b6fc-9771dd45ad0c" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to use the X'Y
 
 ----------------------------------------------------------------------
 
