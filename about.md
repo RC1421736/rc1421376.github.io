@@ -7,6 +7,6 @@ and my birthday is July second of 2009. I am a senior in highschool. I like read
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
