@@ -94,7 +94,7 @@ To use the X/Y value to put the robot in the correct spot.
 
 ### What I Learned
 
-I learned how to use the X'Y
+I learned how to use the X/Y coordinates to position my robot
 
 ----------------------------------------------------------------------
 
@@ -102,16 +102,15 @@ I learned how to use the X'Y
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+We were to learn how to use sesonry blocks ad inputers
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="914" height="495" alt="image" src="https://github.com/user-attachments/assets/b436b798-30a2-42c2-9c9d-de6bea1aefda" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how to use sensory input code to help my robot avoid hitting the walls to get through the maze.
 
 ----------------------------------------------------------------------
 
@@ -119,6 +118,22 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
+to get through the maze to and back using color sensors
+
+### My Solution
+
+<img width="907" height="439" alt="image" src="https://github.com/user-attachments/assets/2982b9a8-b4aa-4537-9caa-b1f119d12b44" />
+
+### What I Learned
+
+I learned how to use the color sensors to get through areas with the sensors
+
+----------------------------------------------------------------------
+
+## Challenge: [Disk Mover]
+
+### Goal
+
 Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
 
 ### My Solution
@@ -128,22 +143,5 @@ Add a picture or screenshot showing your solution.
 ### What I Learned
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
-----------------------------------------------------------------------
-
-## Challenge: [Disk Mover]
-
-### Goal
-
-the goal of this lesson was to learn the basic turn and go functions along with coloring to understand the basc componetes of this 
-
-### My Solution
-
-Add a picture or screenshot showing your solution.
-
-### What I Learned
-
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
 
 ----------------------------------------------------------------------
