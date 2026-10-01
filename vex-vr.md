@@ -1,7 +1,6 @@
 # VEX VR
 
 This page documents my work and learning throughout the VEX VR Computer Science course.
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Find Your Age]
@@ -17,8 +16,6 @@ the goal of this lesson was to learn the basic turn and go functions along with 
 ### What I Learned
 
 I learned how to make the robot turn and go, and leave colored trail markings behind it and even how to choose when to change the color when I desire.
-
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Basketball Drills]
@@ -34,7 +31,6 @@ To learn how to use the repeating blocks and even variabels to make it change si
 ### What I Learned
 
 I learned how to use reapeating blocks and how to make and use my custom variabe blocks
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Storm the castle]
@@ -50,7 +46,6 @@ To clear all blocks off the island and make sure the robot is the only thing lef
 ### What I Learned
 
 I learned how to use color sensors and how to make an efficent reapting system for the robot.
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Draw a House]
@@ -65,7 +60,6 @@ We are to learn the drawing function more basicly to understand the sizes, up/do
 ### What I Learned
 
 I learnd how to change sizes and when to lift and lower the color
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Wall Maze with Bumpers]
@@ -80,7 +74,6 @@ To learn how to use bumper sensors to navigate areas
 ### What I Learned
 
 I learned how to use the sensors t get through the maze and avoid the walls
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Drive to Three Numbers Challenge]
@@ -95,7 +88,6 @@ To use the X/Y value to put the robot in the correct spot.
 ### What I Learned
 
 I learned how to use the X/Y coordinates to position my robot
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Wall Maze with Distance Sensors]
@@ -111,7 +103,6 @@ We were to learn how to use sesonry blocks ad inputers
 ### What I Learned
 
 I learned how to use sensory input code to help my robot avoid hitting the walls to get through the maze.
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Disk Color Maze]
@@ -127,21 +118,19 @@ to get through the maze to and back using color sensors
 ### What I Learned
 
 I learned how to use the color sensors to get through areas with the sensors
-
 ----------------------------------------------------------------------
 
 ## Challenge: [Disk Mover]
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+To get each disk in the boxes and have one color in each of the three boxes.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="1493" height="540" alt="image" src="https://github.com/user-attachments/assets/7f2a4e81-1feb-4b1b-809c-474ec2a864b6" />
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
-
+I learned how ro use the magnatize block to move things around.
 ----------------------------------------------------------------------
